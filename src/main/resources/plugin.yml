@@ -1,8 +1,8 @@
 name: mmoGroup
-main: mmo.Group.MMOGroup
-version: 0.1
-website: http://forums.bukkit.org/threads/
-author: Rycochet <rycochet@rycochet.com>
-depend: [Spout,mmoCore]
+version: ${releaseVersion} b${buildNumber}
+description: Provides a grouping API for factions, classes, races etc.
+author: mmoMinecraftDev
+website: http://mmo.me.uk
 
-description: Provide a grouping API for factions, classes, races etc.
+main: mmo.Group.MMOGroup
+depend: [Spout, mmoCore]
