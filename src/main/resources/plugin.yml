@@ -1,5 +1,5 @@
 name: mmoGroup
-version: ${releaseVersion} b${buildNumber}
+version: ${releaseVersion}.${buildNumber}
 description: Provides a grouping API for factions, classes, races etc.
 author: mmoMinecraftDev
 website: http://mmo.me.uk
